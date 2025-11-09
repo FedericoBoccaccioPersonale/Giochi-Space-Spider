@@ -11,6 +11,7 @@ Puoi tranquillamente scaricare dalla release o giocare on line.
 [Ultima versione](https://github.com/FedericoBoccaccioPersonale/Giochi-Space-Spider/releases/latest) (tutte le piattaforme disponibili)
 
 🌐 [Gioca on line](https://federicoboccacciopersonale.github.io/Giochi-Space-Spider/)
+<a href=https://federicoboccacciopersonale.github.io/Giochi-Space-Spider/ target=_blank>Gioca on line</a>
 
 # Informazioni
 Su GitHub c' è il repository principale, su GitLab è presente il suo clone per backup.
